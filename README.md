@@ -179,7 +179,7 @@ the easiest way is to use choco:
 either follow the instructions on the page or use winget,
 run in cmd as **admin**:
 ```
-winget install --accept-source-agreements chocolatey.chocolatey
+winget install --accept-source-agreements Chocolatey.Chocolatey
 ```
 
 2. install all requirements using choco, exit the previous cmd and
